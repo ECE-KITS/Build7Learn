@@ -59,5 +59,5 @@ The LED stays OFF normally. When you press the button, the LED turns ON. The Ser
 ### Reason
 The button is wired to Ground. When pressed, it completes the circuit to Ground, pulling GPIO 4 to 0V (LOW). The if statement detects this LOW state and sends 3.3V (HIGH) to GPIO 5, turning on the LED.
 
-## Troubleshooting
+### Troubleshooting
 LED always ON? You might have wired the button incorrectly. Ensure it connects GPIO 4 to GND when pressed.
