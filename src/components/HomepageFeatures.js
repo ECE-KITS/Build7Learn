@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('../../static/img/2.svg').default,
     description: (
       <>
-        STM32CubeIDE is an all-in-one integrated development environment (IDE) designed for STM32 microcontrollers and ST microprocessors
+        The Arduino Uno is a beginner-friendly development board based on the ATmega328P microcontroller. Designed by Arduino, it offers an easy-to-use platform for learning electronics, programming, and rapid prototyping of embedded systems and IoT applications.
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('../../static/img/1.svg').default,
     description: (
       <>
-        A Nucleo Board is a development board designed by STMicroelectronics for STM32 microcontrollers. It provides a cost-effective, flexible, and easy-to-use platform for prototyping and development with STM32 MCUs
+        The ESP8266 is a low-cost Wi-Fi-enabled microcontroller developed by Espressif Systems. It provides a powerful and compact platform for building IoT devices, enabling wireless communication, cloud connectivity, and standalone embedded applications.
       </>
     ),
   },
