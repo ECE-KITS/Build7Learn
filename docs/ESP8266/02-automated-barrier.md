@@ -1,4 +1,4 @@
-# Experiment 2: The Automated Barrier (Servo + IR)
+# Exp 2: The Automated Barrier (Servo + IR)
 
 ## Short Description
 You will create an automated parking gate. An IR sensor will detect the presence of a "car" (your hand), and the code will trigger a Servo motor to rotate 90 degrees to open the gate.

@@ -1,4 +1,4 @@
-# Experiment 4: The Web Controller
+# Exp 4: The Web Controller
 
 ## Short Description
 You will turn your ESP8266 into a mini-website host. By uploading HTML code to the board, you can create a control panel accessible from any browser on the same network.
@@ -75,4 +75,4 @@ void loop() {
 When you visit the IP address shown in Serial Monitor on your phone, you see two buttons. Clicking "TURN ON" lights up the LED.
 
 ### Reason
-The ESP8266 runs a lightweight HTTP server. When your browser requests http://<IP>/on, the handleOn() function triggers, setting GPIO 5 HIGH.
+The ESP8266 runs a lightweight HTTP server. When your browser requests `http://<IP>/on`, the handleOn() function triggers, setting GPIO 5 HIGH.

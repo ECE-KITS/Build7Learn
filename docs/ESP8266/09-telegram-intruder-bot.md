@@ -11,7 +11,7 @@ Triggering the motion sensor sends a "WARNING" message to your phone's Telegram 
 
 ## Concept
 1. HTTPS: Telegram requires a Secure Socket Layer (SSL).
-2. API: We use the Telegram Bot API URL format: https://api.telegram.org/bot<TOKEN>/sendMessage.
+2. API: We use the Telegram Bot API URL format: `https://api.telegram.org/bot<TOKEN>/sendMessage`.
 
 ## Setup
 1.	Open Telegram -> Search "BotFather" -> /newbot -> Get Token.
