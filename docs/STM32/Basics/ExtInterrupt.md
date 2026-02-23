@@ -20,7 +20,19 @@
 - **User Button**: Port C, GPIO Pin 13
 ---
 
-### Step 3: Code Snippet for Button Press and LED Toggling
+### Step 3: Enable EXTI Line in NVIC Interrupt:
+
+<!-- [Docs](https://wiki.st.com/stm32mcu/wiki/STM32StepByStep:Step2_Blink_LED) -->
+**SystemCore-> GPIO-> NVIC-> EXTI Line->'Enable'**
+
+![Image](..\Images\ButtonLED\3.png)
+
+#### GPIO Pin Details:
+- **Inbuilt LED**: Port A, GPIO Pin 5
+- **User Button**: Port C, GPIO Pin 13
+---
+
+### Step 4: Code Snippet for Button Press and LED Toggling
 
 Paste the following code snippet inside the `/* USER CODE BEGIN 0 */`:
 
