@@ -1,4 +1,4 @@
-# Exp 6: IoT Dashboard (Blynk)
+# IoT Dashboard (Blynk)
 ## Short Description
 You will link your ESP8266 to a mobile app called Blynk. This allows you to create a custom smartphone interface with buttons and displays to control your hardware remotely.
 

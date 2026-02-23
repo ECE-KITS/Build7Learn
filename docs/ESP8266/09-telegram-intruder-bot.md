@@ -1,4 +1,4 @@
-# Experiment 9: The Telegram Intruder Bot
+# The Telegram Intruder Bot
 
 ## Goal
 Real-time push notifications on your phone using Telegram's Secure API.

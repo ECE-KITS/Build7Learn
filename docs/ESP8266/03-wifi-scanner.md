@@ -1,4 +1,4 @@
-# Exp 3: WiFi Scanner
+# WiFi Scanner
 
 ## Short Description
 This experiment demonstrates the wireless capabilities of the chip. You will write code to command the ESP8266 to search the airwaves for available 2.4GHz WiFi networks.

@@ -1,4 +1,4 @@
-# Exp 5: Cloud Data Logger(ThingSpeak)
+# Cloud Data Logger(ThingSpeak)
 
 ## Short Description
 You will connect your device to the cloud data platform ThingSpeak. The ESP8266 will monitor an IR sensor and upload a "1" to the cloud whenever an intruder passes by.

@@ -1,4 +1,4 @@
-# Exp 7: Professional IoT (MQTT): MQTT Remote Control
+# Professional IoT (MQTT): MQTT Remote Control
 ## Short Description
 You will use the MQTT protocol, which is the industry standard for IoT. You will use a public server (Broker) to send text commands from your computer to your ESP8266. 
 
