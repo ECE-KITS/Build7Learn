@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkstm_32_documentaion=globalThis.webpackChunkstm_32_documentaion||[]).push([[6051],{6697(a){a.exports=JSON.parse('{"metadata":{"permalink":"/Build7Learn/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

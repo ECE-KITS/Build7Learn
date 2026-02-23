@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Embed/IoT AddOn Course Blog</title>
-        <link>https://ece-kits.github.io/blog</link>
+        <link>https://ece-kits.github.io/Build7Learn/blog</link>
         <description>Embed/IoT AddOn Course Blog</description>
         <lastBuildDate>Fri, 13 Feb 2026 10:36:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,40 +10,40 @@
         <language>en</language>
         <item>
             <title><![CDATA[Credits]]></title>
-            <link>https://ece-kits.github.io/blog/credits</link>
-            <guid>https://ece-kits.github.io/blog/credits</guid>
+            <link>https://ece-kits.github.io/Build7Learn/blog/credits</link>
+            <guid>https://ece-kits.github.io/Build7Learn/blog/credits</guid>
             <pubDate>Fri, 13 Feb 2026 10:36:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://ece-kits.github.io/blog/welcome</link>
-            <guid>https://ece-kits.github.io/blog/welcome</guid>
+            <link>https://ece-kits.github.io/Build7Learn/blog/welcome</link>
+            <guid>https://ece-kits.github.io/Build7Learn/blog/welcome</guid>
             <pubDate>Fri, 13 Feb 2026 10:36:28 GMT</pubDate>
             <description><![CDATA[Glory to God!]]></description>
             <content:encoded><![CDATA[<p><strong>Glory to God!</strong></p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="about-me">About Me<a href="https://ece-kits.github.io/blog/welcome#about-me" class="hash-link" aria-label="Direct link to About Me" title="Direct link to About Me" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="about-me">About Me<a href="https://ece-kits.github.io/Build7Learn/blog/welcome#about-me" class="hash-link" aria-label="Direct link to About Me" title="Direct link to About Me" translate="no">​</a></h3>
 <p>I am a passionate technology and VLSI enthusiast with experience in embedded systems and IoT. I've served as a coordinator and volunteer in various workshops conducted in the college and have hands-on experience with platforms like Arduino, ESP32, ESP8266, STM32, 8051, and LoRaWAN. I enjoy exploring new domains and technologies, and I thrive on interacting with people.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="initiative">Initiative<a href="https://ece-kits.github.io/blog/welcome#initiative" class="hash-link" aria-label="Direct link to Initiative" title="Direct link to Initiative" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="initiative">Initiative<a href="https://ece-kits.github.io/Build7Learn/blog/welcome#initiative" class="hash-link" aria-label="Direct link to Initiative" title="Direct link to Initiative" translate="no">​</a></h3>
 <p>My inspiration to create this documentation website came from a site built by friends for a Gen AI Bootcamp using Docusaurus. I was part of the KHACKS community at the time, and their project sparked my passion for building one of my own.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="my-team">My Team<a href="https://ece-kits.github.io/blog/welcome#my-team" class="hash-link" aria-label="Direct link to My Team" title="Direct link to My Team" translate="no">​</a></h3>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://ece-kits.github.io/assets/images/team-02d891dc20dd0b168e81d3bed9f175d0.jpg" width="1471" height="878" class="img_ev3q"></p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="my-team">My Team<a href="https://ece-kits.github.io/Build7Learn/blog/welcome#my-team" class="hash-link" aria-label="Direct link to My Team" title="Direct link to My Team" translate="no">​</a></h3>
+<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://ece-kits.github.io/Build7Learn/assets/images/team-02d891dc20dd0b168e81d3bed9f175d0.jpg" width="1471" height="878" class="img_ev3q"></p>
 <ul>
 <li class="">
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="content-creation">Content Creation:<a href="https://ece-kits.github.io/blog/welcome#content-creation" class="hash-link" aria-label="Direct link to Content Creation:" title="Direct link to Content Creation:" translate="no">​</a></h4>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="content-creation">Content Creation:<a href="https://ece-kits.github.io/Build7Learn/blog/welcome#content-creation" class="hash-link" aria-label="Direct link to Content Creation:" title="Direct link to Content Creation:" translate="no">​</a></h4>
 <ul>
 <li class="">Aldrin G</li>
 <li class="">Kevin</li>
 </ul>
 </li>
 <li class="">
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="testing--management">Testing &amp; Management:<a href="https://ece-kits.github.io/blog/welcome#testing--management" class="hash-link" aria-label="Direct link to Testing &amp; Management:" title="Direct link to Testing &amp; Management:" translate="no">​</a></h4>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="testing--management">Testing &amp; Management:<a href="https://ece-kits.github.io/Build7Learn/blog/welcome#testing--management" class="hash-link" aria-label="Direct link to Testing &amp; Management:" title="Direct link to Testing &amp; Management:" translate="no">​</a></h4>
 <ul>
 <li class="">Sherin</li>
 <li class="">Lemeka</li>
 </ul>
 </li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="acknolegement">Acknolegement<a href="https://ece-kits.github.io/blog/welcome#acknolegement" class="hash-link" aria-label="Direct link to Acknolegement" title="Direct link to Acknolegement" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="acknolegement">Acknolegement<a href="https://ece-kits.github.io/Build7Learn/blog/welcome#acknolegement" class="hash-link" aria-label="Direct link to Acknolegement" title="Direct link to Acknolegement" translate="no">​</a></h3>
 <p>I am deeply grateful to my faculty mentors, <strong>Ms. Bella Mary</strong>, <strong>Mr. Johnpaul</strong>, and <strong>Mr. Wilson Cristopher</strong>, for providing me with the opportunity to conduct this workshop for <code>30 students in the ECE Department</code>. I also extend my heartfelt thanks to my amazing team— <strong>Kevin</strong>, <strong>Sherin</strong>, and <strong>Lemeka</strong> whose dedication and support were instrumental in the workshop's success. They contributed to content creation, documentation, poster design, form management, attendance tracking, and mentoring throughout the entire session.</p>]]></content:encoded>
         </item>
     </channel>
