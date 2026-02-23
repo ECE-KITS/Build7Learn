@@ -16,8 +16,8 @@ const config = {
   url: 'https://ece-kits.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  //baseUrl: '/',
-  baseUrl: '/Build7Learn/',
+  baseUrl: '/',
+  //baseUrl: '/Build7Learn/',
   
   trailingSlash: false,
   // GitHub pages deployment config.
