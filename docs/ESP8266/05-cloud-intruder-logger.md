@@ -71,4 +71,4 @@ void loop() {
 A graph on your ThingSpeak dashboard updates every 15 seconds. If you wave your hand, the graph spikes to '1'.
 
 #### Reason
-The ESP8266 connects to ThingSpeak's REST API. Part A manually constructs the HTTP Headers (POST /update...). Part B uses a library to do the same task, abstracting the complexity.
+The ESP8266 connects to ThingSpeak's REST API and updates the field.
