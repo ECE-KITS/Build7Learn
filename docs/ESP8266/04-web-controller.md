@@ -25,22 +25,22 @@ ESP8266WebServer server(80); // Port 80 is the default HTTP port
 const int ledPin = 5; // GPIO 5 (D1)
 
 // HTML Code stored in a String (Simple method)
-String htmlPage = "<h1>Control Room</h1>"
-                  "<p><a href=\"/on\"><button style=\"background:green; color:white; font-size:20px; padding:10px;\">TURN ON</button></a></p>"
-                  "<p><a href=\"/off\"><button style=\"background:red; color:white; font-size:20px; padding:10px;\">TURN OFF</button></a></p>";
+String htmlPage = "<h1 style=\"text-align:center; font-size:100px;\">Control Room</h1>"
+                  "<p><a href=\"/on\"><button style=\"background:green; color:white; font-size:100px; padding:10px;\">TURN ON</button></a></p>"
+                  "<p><a href=\"/off\"><button style=\"background:red; color:white; font-size:100px; padding:10px;\">TURN OFF</button></a></p>";
 
 void handleRoot() {
   server.send(200, "text/html", htmlPage); // Send HTML to browser
 }
 
 void handleOn() {
-  digitalWrite(ledPin, HIGH);
-  server.send(200, "text/html", "<h1>Light ON</h1> <a href='/'>Back</a>");
+  digitalWrite(ledPin, LOW);
+  server.send(200, "text/html", htmlPage);
 }
 
 void handleOff() {
-  digitalWrite(ledPin, LOW);
-  server.send(200, "text/html", "<h1>Light OFF</h1> <a href='/'>Back</a>");
+  digitalWrite(ledPin, HIGH);
+  server.send(200, "text/html", htmlPage);
 }
 
 void setup() {
@@ -75,4 +75,4 @@ void loop() {
 When you visit the IP address shown in Serial Monitor on your phone, you see two buttons. Clicking "TURN ON" lights up the LED.
 
 ### Reason
-The ESP8266 runs a lightweight HTTP server. When your browser requests http://<IP>/on, the handleOn() function triggers, setting GPIO 5 HIGH.
+The ESP8266 runs a lightweight HTTP server. When your browser requests http://"IP"/on, the handleOn() function triggers, setting GPIO 5 HIGH.
