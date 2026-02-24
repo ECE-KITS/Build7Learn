@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('../../static/img/2.svg').default,
     description: (
       <>
-        STM32CubeIDE is an all-in-one integrated development environment (IDE) designed for STM32 microcontrollers and ST microprocessors
+        A beginner-friendly development board based on the ATmega328P, ideal for learning electronics, programming, and rapid prototyping
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('../../static/img/1.svg').default,
     description: (
       <>
-        A Nucleo Board is a development board designed by STMicroelectronics for STM32 microcontrollers. It provides a cost-effective, flexible, and easy-to-use platform for prototyping and development with STM32 MCUs
+        A low-cost Wi-Fi-enabled ESP8266 development board, perfect for building IoT and wireless embedded applications
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('../../static/img/Nucleo.svg').default,
     description: (
       <>
-        A Nucleo Board is a development board designed by STMicroelectronics for STM32 microcontrollers. It provides a cost-effective, flexible, and easy-to-use platform for prototyping and development with STM32 MCUs
+        An STM32 development board by STMicroelectronics, offering a flexible and affordable platform for embedded prototyping
       </>
     ),
   },

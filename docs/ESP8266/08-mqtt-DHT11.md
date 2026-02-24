@@ -1,4 +1,4 @@
-# Experiment 8: Advanced Smart Climate System
+# Advanced Smart Climate System
 
 ## Short Description
 This is an advanced integration project. You will combine sensor reading (DHT11), actuator control (Servo), and MQTT communication. The system automates fan control based on room temperature.

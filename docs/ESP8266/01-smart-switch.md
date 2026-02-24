@@ -1,4 +1,4 @@
-# Experiment 1: The Smart Switch (Input & Output)
+# The Smart Switch (Input & Output)
 
 ## Short Description
 In this experiment, you will build a basic circuit where an LED acts as an output and a push button acts as an input. You will write a program that constantly checks if the button is pressed.
