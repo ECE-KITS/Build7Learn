@@ -21,6 +21,17 @@ Triggering the motion sensor sends a "WARNING" message to your phone's Telegram 
 ![alt text](images/exp2-a.jpeg)
 IR Sensor Signal -> GPIO 14 (Pin D5).
 
+## Setup Demo Images
+![alt text](images/Picture2.jpg)
+![alt text](images/Picture1.jpg)
+![alt text](images/Picture9.jpg)
+![alt text](images/Picture8.jpg)
+![alt text](images/Picture7.jpg)
+![alt text](images/Picture6.jpg)
+![alt text](images/Picture5.jpg)
+![alt text](images/Picture4.jpg)
+![alt text](images/Picture3.jpg)
+
 ## The Code
 ```cpp
 #include <ESP8266WiFi.h>
